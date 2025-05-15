@@ -5,6 +5,6 @@ class Persona{
 };
 
 int main() {
-	Persona Josevicente;
+	Persona Andrei;
     return 0;
 }

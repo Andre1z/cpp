@@ -1,7 +1,7 @@
 #include <iostream>
 
 int main() {
-	int edad = 26;
+	int edad = 19;
 	if(edad < 10){
 		std::cout << "Eres un niño" << std::endl;
 	}else if(edad >= 10 && edad < 20){

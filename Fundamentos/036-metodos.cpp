@@ -13,8 +13,8 @@ class Persona{
 };
 
 int main() {
-	Persona Josevicente;
-	Josevicente.setEdad(46);
-	std::cout << "La edad es de " << Josevicente.getEdad() << " años" << std::endl;
+	Persona Andrei;
+	Andrei.setEdad(19);
+	std::cout << "La edad es de " << Andrei.getEdad() << " años" << std::endl;
     return 0;
 }

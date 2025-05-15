@@ -3,8 +3,8 @@
 using namespace std;
 
 int main() {
-    vector<int> numeros = {10, 20, 30};
-    numeros.push_back(40);
+    vector<int> numeros = {50, 60, 70};
+    numeros.push_back(80);
 
     for (int num : numeros) {
         cout << num << " ";

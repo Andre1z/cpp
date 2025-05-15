@@ -14,9 +14,9 @@ void printList(Node* n) {
 }
 
 int main() {
-    Node* head = new Node{1, nullptr};
-    Node* second = new Node{2, nullptr};
-    Node* third = new Node{3, nullptr};
+    Node* head = new Node{5, nullptr};
+    Node* second = new Node{6, nullptr};
+    Node* third = new Node{7, nullptr};
 
     head->next = second;
     second->next = third;

@@ -8,7 +8,7 @@ struct Persona {
 };
 
 int main() {
-    Persona p = {"Juan", 25, 1.75};
+    Persona p = {"Raul", 25, 1.75};
     cout << "Nombre: " << p.nombre << ", Edad: " << p.edad << ", Altura: " << p.altura << endl;
     return 0;
 }

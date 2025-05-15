@@ -8,7 +8,7 @@ int suma(int a,int b){
 }
 
 int main() {
-	 std::cout << suma(4,3) << std::endl;
-	 std::cout << suma(3,67) << std::endl;
+	 std::cout << suma(8,7) << std::endl;
+	 std::cout << suma(7,134) << std::endl;
     return 0;
 }

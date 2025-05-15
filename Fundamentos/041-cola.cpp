@@ -4,9 +4,9 @@ using namespace std;
 
 int main() {
     queue<string> cola;
-    cola.push("Primero");
-    cola.push("Segundo");
-    cola.push("Tercero");
+    cola.push("Quinto");
+    cola.push("Sexto");
+    cola.push("Sepitomo");
 
     while (!cola.empty()) {
         cout << cola.front() << " ";

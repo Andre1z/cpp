@@ -1,11 +1,11 @@
 #include <iostream>
 
 int main() {
-	int dia;
-	dia = 40;
+	int mes;
+	mes = 21;
 	do{
-		std::cout << "Hoy es el dia " << dia << " del mes" << std::endl;
-	 	dia++;
-	}while(dia < 31);
+		std::cout << "Hoy es el mes " << mes << " del año" << std::endl;
+	 	mes++;
+	}while(mes < 12);
     return 0;
 }

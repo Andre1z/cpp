@@ -1,7 +1,7 @@
 #include <iostream>
 
 int main() {
-	 double altura = 1.78;
+	 double altura = 1.82;
 	 std::cout << "Mido " << altura << " metros" << std::endl;
     return 0;
 }

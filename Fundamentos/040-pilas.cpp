@@ -4,9 +4,9 @@ using namespace std;
 
 int main() {
     stack<int> pila;
-    pila.push(1);
-    pila.push(2);
-    pila.push(3);
+    pila.push(5);
+    pila.push(6);
+    pila.push(7);
 
     while (!pila.empty()) {
         cout << pila.top() << " ";

@@ -1,17 +1,17 @@
 #include <iostream>
 
 int main() {
-	bool comparacion = 4<3;
+	bool comparacion = 8<7;
     std::cout << comparacion << std::endl;
-    comparacion = 4>3;
+    comparacion = 8>7;
     std::cout << comparacion << std::endl;
-    comparacion = 4<=3;
+    comparacion = 8<=7;
     std::cout << comparacion << std::endl;
-    comparacion = 4>=3;
+    comparacion = 8>=7;
     std::cout << comparacion << std::endl;
-    comparacion = 4==3;
+    comparacion = 8==7;
     std::cout << comparacion << std::endl;
-    comparacion = 4!=3;
+    comparacion = 8!=7;
     std::cout << comparacion << std::endl;
     return 0;
 }
